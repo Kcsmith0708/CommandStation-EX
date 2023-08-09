@@ -147,6 +147,11 @@
 //       TrackManager DCC & DC up to 8 Districts Architecture 
 //       Automatic ALIAS(name) 
 //       Command Parser now accepts Underscore in Alias Names
+// 4.1.6 Support for new EX-MotorShield8874
+// 4.1.5 Bugfix LCN number parsing
+// 4.1.4 Bugfix for issue #299 TurnoutDescription NULL
+// 4.1.3 Bugfix: Ethernet init order
+// 4.1.2 Bugfix: Ethernet shield W5100 does not report HW or link level
 // 4.1.1 Bugfix: preserve turnout format
 //       Bugfix: parse multiple commands in one buffer string correct
 //       Bugfix: </> command signal status in Exrail
